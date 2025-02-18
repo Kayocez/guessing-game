@@ -2,8 +2,7 @@
 
 # Jogo de Adivinhação de Números 🔢🎮
 
-Um jogo simples em JavaScript para adivinhar um número secreto! 🎯  
-Perfeito para treinar lógica e boas práticas de programação. 💻✨
+Um jogo em JavaScript para adivinhar um número secreto! 🎯  
 
 ---
 
