@@ -1,7 +1,7 @@
 # guessing-game
 # Jogo de Adivinhação de Números 🔢🎮
 
-Um jogo simples em JavaScript para adivinhar um número secreto! 🎯  
+Um jogo em JavaScript para adivinhar um número secreto! 🎯  
 
 ---
 
